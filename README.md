@@ -12,10 +12,8 @@ My name is Luiz Jordão Rodrigues Simão and I'm Full stack developer. Enthusias
 🧑‍💼   I’m currently working at **Embraer**  working with AngularJs (1.x), NodeJs, TypeScript, PHP, C#, VB.NET, MYSQL
 and Postgres &nbsp;
 &nbsp;
-💻 I’m currently learning automated tests
-📚 Reading the Clean Code Book, to improve my skills in writing good codes.
-&nbsp;
-😄 I love JavasSript, Java and Others :D.
+💻 I’m currently learning automated tests 
+📚 Reading the Clean Code Book, to improve my skills in writing good codes.    😄 I love JavasSript, Java and Others :D.
 &nbsp;
 🎓 Computer engineering student //
   
