@@ -3,8 +3,6 @@
 [LINKEDIN](https://www.linkedin.com/in/jordaorodrigues/)
 
 
-
-***
   ### Welcome to my Profile !
 
 My name is Luiz Jordão Rodrigues Simão and I'm Full stack developer. Enthusiastic about new technologies in software development, Design Patterns, automated tests. Always looking for new knowledge, with main focus on studies in javaScript and NodeJs technologies. Computer engineering student, seeking to expand knowledge, aligning knowledge in software development and engineering studies.
